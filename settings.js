@@ -11,11 +11,19 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `❇️ඔයාලට මේ ᗷᗝ丅 ගෙන් කරගන්න පුලුවන් වැඩ දැන ගන්න❇️
+⭕️.panel
+⭕️.menu
+💢type කරල send  කරන්න💢
+
+💢Group link දැමීම තහනම්.♨️
+
+💢අනවශ්‍ය message දැමීම තහනම්.♨️
+
+💢Group එකට අදාළ message පමනක් දාන්න. ♨️` //Costomize Alive Message (type your message in `` )
 
 
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
@@ -44,9 +52,9 @@ global.antibad = "false" // To remove bad word senders
 
 global.owner = ['+94776393009']
 global.ownertag = '+94776393009' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.botname = '𝓶𝓲𝓼𝓱𝓪 𝓦𝓱𝓲𝓽𝓮 𝓚𝓲𝓷𝓰 ' //ur bot name
+global.packname = "𝓦𝓱𝓲𝓽𝓮 𝓚𝓲𝓷𝓰 " // sticker packname
+global.author = "𝓶𝓲𝓼𝓱𝓪 𝓦𝓱𝓲𝓽𝓮 𝓚𝓲𝓷𝓰 " // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
