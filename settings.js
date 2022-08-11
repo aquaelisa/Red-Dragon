@@ -44,7 +44,7 @@ global.socialm = "" // github or insta name
 global.location = "" // location
 
 //bot body 
-global.alivepic = `https://stackposts.com/blog/uploads/images/2021/image/anime%20(840).jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://play-lh.googleusercontent.com/Hem3fpUG0dr3pRxt81tKorVlPH-bWXKdxroMdmYwv84Fx5P0rdrYVB-hB6BlaoRzu9s` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "true")
